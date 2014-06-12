@@ -1,0 +1,2 @@
+class Hun < ActiveRecord::Base
+end

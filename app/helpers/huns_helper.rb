@@ -1,0 +1,2 @@
+module HunsHelper
+end
